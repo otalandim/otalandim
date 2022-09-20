@@ -3,16 +3,9 @@
 
 Software Engineer that loves software testing, JavaScript/TypeScript enthusiast, married, father and cyclist.
 
-</br>
-<div>
-  <a href="https://beacons.ai/otalandim">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=otalandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otalandim&layout=compact&langs_count=16&theme=dracula"/>
-</div>
- 
 
    <div style="display: inline_block"></br>
-  
+ 
   <img align="center" alt="Ota-Node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="Ota-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ota-Ts" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -21,7 +14,14 @@ Software Engineer that loves software testing, JavaScript/TypeScript enthusiast,
   <img align="center" alt="Ota-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Ota-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   </div> 
-  
+  </br>
+<div>
+  <a href="https://beacons.ai/otalandim">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=otalandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otalandim&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+ 
+
 <!--   
   <div>
       <a href="node" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
