@@ -1,4 +1,9 @@
 
+### Hi there, I'm Otávio Landim 
+
+Software Engineer that loves software testing, JavaScript/TypeScript enthusiast, married, father and cyclist.
+
+</br>
 <div>
   <a href="https://beacons.ai/otalandim">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=otalandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
