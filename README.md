@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Otávio Landim 
 
-Software Engineer that loves software testing, JavaScript/TypeScript enthusiast, married, father and cyclist.
+Software Engineer that loves software testing, with of 16+ years of experience in IT, I worked on internacional projects for companies like Lenovo and HP. JavaScript/TypeScript enthusiast, married, father and cyclist. I'm certified in CTFL and CSM.
 
 
    <div style="display: inline_block"></br>
