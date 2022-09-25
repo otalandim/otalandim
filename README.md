@@ -1,7 +1,7 @@
 <div>
 <h2> Hi there, I'm Otávio Landim </h2>
 
-<p> Software Engineer that loves software testing, with of 16+ years of experience in IT, I worked on internacional projects for companies like Lenovo and HP. JavaScript/TypeScript enthusiast, married, father and cyclist. I'm certified in CTFL and CSM. </p>
+<p> Software Engineer that loves software testing, with of 16+ years of experience in IT, I'm graduated in Analysis Systems for Internet, and also I worked on internacional projects for companies like Lenovo and HP. JavaScript/TypeScript enthusiast, married, father and cyclist. </p>
 
 <div align="center" style="display: inline_block">
   <img alt="node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
